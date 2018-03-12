@@ -5,4 +5,5 @@
 /test-output/
 /target/
 *.iml
-.idea/
+/.idea
+*/target/
